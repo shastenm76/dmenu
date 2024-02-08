@@ -1,0 +1,15 @@
+! render setting for cairo -> pango -> gtk
+! Xft.dpi: 96
+! Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+dwm.normbordercolor: #021b21;
+dwm.normbgcolor: #44b5b1;
+dwm.normfgcolor: #e8dfd6;
+dwm.selbordercolor:  #f6f6c9;
+dwm.selbgcolor: #032c36
+dwm.selfgcolor: #032c36
